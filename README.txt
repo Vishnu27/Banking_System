@@ -1,0 +1,1 @@
+This repository contains a generic Banking System. This system can store account numbers, account balance and other customer information.
